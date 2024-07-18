@@ -1,3 +1,0 @@
-@function set-alpha($color, $newalpha) {
-  @return change-color($color, $alpha: $newalpha);
-}
