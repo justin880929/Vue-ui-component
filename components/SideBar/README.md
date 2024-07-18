@@ -4,7 +4,11 @@
 ![image](https://img.shields.io/badge/-Scss-eee?style=for-the-badge&logo=sass)
 ## CodePen Demo
 
-[Check out my CodePen](https://codepen.io/justin880929/pen/Yzowegd)
+### `Responsive Web Design (RWD) Support `
+[![CodePen](https://img.shields.io/badge/CodePen-View-000000?style=for-the-badge&logo=codepen)](https://codepen.io/justin880929/pen/Yzowegd)
+
+
+
 
 ## Props Type
 ```
