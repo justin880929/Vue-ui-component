@@ -27,4 +27,3 @@ dist-ssr
 !.gitignore
 !README.md
 !components/
-!components/**
