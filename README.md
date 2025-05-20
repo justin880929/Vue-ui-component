@@ -8,3 +8,4 @@ This project is developed using Vue 3, TypeScript, Vite, and SCSS.</br> A demo o
 ---
 ### `Please do not copy the source code directly from CodePen.`
 ### `Instead, download the components from the GitHub repository.`
+[查看我的 CodePen 範例](https://codepen.io/justin880929/pen/Yzowegd)
